@@ -8,3 +8,4 @@ merging the result - Test feature snd testing
 going to become merge conflict
 veltech
 school
+school-merge
